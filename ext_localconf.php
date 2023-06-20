@@ -1,7 +1,5 @@
 <?php
 
-defined('TYPO3_MODE') || exit();
-
 use MST\MstReloadtrigger\Hooks\ReloadFrontendSignal;
 use TYPO3\CMS\Core\Core\Environment;
 /**
