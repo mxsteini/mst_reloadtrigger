@@ -1,7 +1,6 @@
 <?php
 
 use MST\MstReloadtrigger\Hooks\ReloadFrontendSignal;
-use TYPO3\CMS\Core\Core\Environment;
 /**
  *
  */
