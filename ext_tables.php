@@ -1,5 +1,5 @@
 <?php
 
 (static function (): void {
-    $extensionKey = 'mst_contentfallback';
+    $extensionKey = 'mst_reloadtrigger';
 })();
