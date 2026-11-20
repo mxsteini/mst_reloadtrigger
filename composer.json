@@ -3,6 +3,9 @@
     "description": "add a trigger where e.g. browsersync can watch",
     "type": "typo3-cms-extension",
     "license": "proprietary",
+    "require": {
+        "php": ">=8.2 <8.6"
+    },
     "autoload": {
         "psr-4": {
             "MST\\MstReloadtrigger\\": "Classes/"
