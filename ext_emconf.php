@@ -7,10 +7,10 @@ $EM_CONF[$_EXTKEY] = [
     'author_email' => 'info@michaelstein-itb.de',
     'author_company' => 'Michael Stein IT-Beratung',
     'state' => 'stable',
-    'version' => '0.1.9',
+    'version' => '0.1.10',
     'constraints' => [
         'depends' => [
-          'typo3' => '9.5.0-13.4.99'
+          'typo3' => '9.5.0-14.99.99'
         ],
     ],
 ];
